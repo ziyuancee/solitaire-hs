@@ -1,2 +1,2 @@
-#solitaire-hs
+# solitaire-hs
 Solitaire. But functional.
